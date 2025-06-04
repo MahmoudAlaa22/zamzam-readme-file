@@ -3,6 +3,11 @@
 **ZamZam** is a smart, AI-powered mobile application designed to enhance the experience of pilgrims (Hajj & Umrah). The app leverages modern technology to guide, assist, and support users throughout their spiritual journey in Makkah and Madinah.
 
 ---
+## 🎬 App Preview on LinkedIn
+
+[![LinkedIn](https://img.shields.io/badge/View%20Post-LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/posts/mahmoudalaa2210_aetaebaepaeqaeqaerabraepaesaeyaeraepaejabraepaesaepaedaefaeuaepaehaeyabraepaeyabraepaesaehaetaezaer-activity-7192601529223172096-f9m6?utm_source=share&utm_medium=member_desktop&rcm=ACoAACpqrqEBdA3JELiRtJ_zsD4UUKpzw0VLpzE)
+
+---
 
 ## 🌟 Highlights
 
